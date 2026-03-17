@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+
+# Climate dataset handling
+xarray==2024.3.0
+netCDF4==1.6.5
+
+# Jupyter environment
+jupyter
+ipykernel
+notebook
+
+# PyTorch (CPU version recommended)
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# Graph Neural Networks
+torch-geometric==2.5.3
+
+# Utilities
+tqdm
+pickle-mixin
